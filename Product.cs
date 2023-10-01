@@ -1,0 +1,6 @@
+class Product{
+  public Product(){
+    
+  }
+  
+}
